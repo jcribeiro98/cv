@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2022 16:38:13 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test (NOT EXPERIENCE)</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Fri, 23 Dec 2022 16:38:13 +0100</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PhD Researcher - KIT</title>
+      <link>http://localhost:1313/experience/kit_research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/kit_research/</guid>
+      <description>Subspace-based Knowledge Discovery in Large Databases 🎓 </description>
+    </item>
+    <item>
+      <title>PhD Teaching Activities - KIT</title>
+      <link>http://localhost:1313/experience/kit_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/kit_teaching/</guid>
+      <description>My teaching obligations 👨‍🏫 </description>
+    </item>
+    <item>
+      <title>Research Scientist Intern - Gradiant</title>
+      <link>http://localhost:1313/experience/gradiant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/gradiant/</guid>
+      <description>First job in Machine Learning 🤖 My carreer in Machine Learning started in a Technological Consultant named Gradiant (Vigo, Spain). My worked focused on research in Data Efficiency and Data Valuation for efficient training of CV models. This work was supported by the University of Santiago de Compostela as part of my Master&amp;rsquo;s Thesis. Here, we developed GEDA, a Gradient-based efficiency method. We obtained up to a 40% speed-up in time compared with the full-training, and almost no reduction in accuracy (&amp;lt;1%).</description>
+    </item>
+  </channel>
+</rss>
