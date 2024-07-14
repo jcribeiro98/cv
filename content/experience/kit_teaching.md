@@ -8,3 +8,5 @@ duration: "2022-Current"
 
 ---
 ### My teaching obligations 👨‍🏫
+
+A bunch of 'em
