@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//cv.cribeiro.de/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2022-12-23T16:38:13+01:00</lastmod>
   </url><url>
-    <loc>//cv.cribeiro.de/experience/</loc>
+    <loc>//localhost:1313/experience/</loc>
   </url><url>
-    <loc>//cv.cribeiro.de/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//cv.cribeiro.de/experience/kit_research/</loc>
+    <loc>//localhost:1313/experience/kit_research/</loc>
   </url><url>
-    <loc>//cv.cribeiro.de/experience/kit_teaching/</loc>
+    <loc>//localhost:1313/experience/kit_teaching/</loc>
   </url><url>
-    <loc>//cv.cribeiro.de/experience/gradiant/</loc>
+    <loc>//localhost:1313/experience/gradiant/</loc>
   </url><url>
-    <loc>//cv.cribeiro.de/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
