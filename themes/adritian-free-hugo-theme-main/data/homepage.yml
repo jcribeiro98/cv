@@ -1,0 +1,323 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Jose."
+  subtitle: "Data Science & Machine Learning"
+  description: >
+
+  image:
+    x: "images/showcase/JoseAntonioCribeiro-fancymathman.png"
+    _2x: "images/showcase/JoseAntonioCribeiro-fancymathman.png"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Find me in LinkedIn!"
+    URL: ""
+  
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      <i>Born in La Habana, rised in Coruña.</i>
+      </p>
+      <p class="lead">
+      Hello and welcome to my little corner of the web. 
+      My name is Jose and I am a statistician specialised in 
+      Probabilistic ML & Data Science. I am very interested in 
+      new technologies and cutting-edge research in Machine Learning.
+      Take a look at my Google Scholar or my GitHub to 
+      check out my work!
+      </p>
+      <p class="lead">
+      I am currently close to the end of my PhD, so I am very open 
+      to more collaborations and interesting ideas. I am always open
+      to new ventures and opportunities, so let me know if you
+      have any thrilling proposals for me!
+    </p>
+  button:
+    icon: "icon-quote"
+    btnText: "My Research"
+    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  button2:
+    icon: "icon-github-line"
+    btnText: "GitHub"
+    URL: ""
+  image:
+    x: "images/who-am-i/main_pic_new Mediano.png"
+    _2x: "images/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Santiago de Compostela, Spain"
+      year: "2016-2020"
+      degree: "Bachelor of Science (BSc), Mathematics"
+
+    - university: "University of Santiago de Compostela, Spain"
+      year: "2020-2022"
+      degree: "Master of Science (MSc), Statistic Techniques, Germany"
+    - university: "Karlsruhe Institute of Technology (KIT)"
+      year: "2022-2025"
+      degree: "Doctor of Philosophy (PhD), Data Science & Machine Learning"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: >
+    "In mathematics you don't understand things. You just get used to them." —John von Neumann 
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "My Resume"
+    URL: "#"
+  button3:
+    icon: "icon-arrow-right"
+    btnText: "Experience"
+    URL: "/experience"
+
+  items:
+    - title: "gubhe"
+      company: "Serhhhhihnjous Business, Inc"
+      duration: "Feb 2011 - Sep 2019"
+
+    - title: "Sr. Titghhnle"
+      company: "Fancy Ckjhgompany, Inc"
+      duration: "Apr 2010 - poiuJan 2011"
+
+    - title: "Jr.cvb Titlebhnj"
+      company: "Compghjany, Inc"
+      duration: "Jun 2009 - Mapoiur 2010"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "images/clients/asgardia.png"
+        _2x: "images/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "images/clients/earth-2.png"
+        _2x: "images/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "images/clients/goldline.png"
+        _2x: "images/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "images/clients/kanba.png"
+        _2x: "images/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "images/clients/zoo-tv.png"
+        _2x: "images/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "images/clients/ztos.png"
+        _2x: "images/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/radity-finance.jpg"
+        _2x: "images/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/robo-advisor.jpg"
+        _2x: "images/works/robo-advisor@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/radity-finance.jpg"
+        _2x: "images/works/radity-finance@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Skills"
+  items:
+    - name: "Python"
+      position: "Advanced"
+      image:
+        x: "images/testimonials/python.jpeg"
+        _2x: "images/testimonials/python.gif"
+
+    - name: "R"
+      position: "Advanced"
+      image:
+        x: "images/testimonials/r_logo_icon.tiff"
+        _2x: "images/testimonials/r_logo_icon.tiff"
+
+    - name: "CI/CD"
+      position: "Medium"
+      image:
+        x: "images/testimonials/git_small.png"
+        _2x: "images/testimonials/git.png"
+        
+    - name: "DvC"
+      position: "Basic"
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+    - name: "Pytorch"
+      position: "Medium"
+      image:
+        x: "images/testimonials/pytorch_small.png"
+        _2x: "images/testimonials/pytorch.png"
+    - name: "TensorFlow"
+      position: "Medium"
+      image:
+        x: "images/testimonials/tf 2.png"
+        _2x: "images/testimonials/tf.png"
+    - name: "MatLab"
+      position: "Medium"
+      image:
+        x: "images/testimonials/matlab 2.png"
+        _2x: "images/testimonials/matlab.png"   
+interests:
+  enable: true
+  title: "ML & Data Science Interests"
+  items:
+    - name: "Generative Methods"
+      position: ""
+      content: Diffusion methods, GANs & Active Learning 
+        for classification tasks
+      image:
+        x: "images/testimonials/python.jpeg"
+        _2x: "images/testimonials/python.gif"
+
+    - name: "Deep Learning"
+      position: ""
+      content: Deep models for Supervised, semi-supervised, 
+        and unsupervised learning. 
+      image:
+        x: "images/testimonials/r_logo_icon.tiff"
+        _2x: "images/testimonials/r_logo_icon.tiff"
+
+    - name: "Outlier Detection"
+      position: ""
+      content: Self-supervised  & Unsupervised methods 
+        for Novelty & Anomaly detection. 
+      image:
+        x: "images/testimonials/git_small.png"
+        _2x: "images/testimonials/git.png"
+        
+    - name: "Computer Vision"
+      position: ""
+      content: Supervised and Unsupervised Image Classification. 
+        Also interested in Representation Learning.
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+
+    - name: "Tabular Data"
+      position: ""
+      content: Classification & Regression for tabular data, 
+        Statistical Inference and Evaluation of ML results.
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+
+    - name: "Text Processing"
+      position: ""
+      content: Embedding methods for text. Data Analysis and 
+        classification tasks on text data.
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+
+    - name: "Kernel Methods"
+      position: ""
+      content: Kernel Methods in classical Statistical Inference &
+         in modern ML (RKHS, Mean Embedding, Funct. Data)
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+
+    - name: "Uncertainty-based ML"
+      position: ""
+      content: Conformal Prediction, Partial Label learning, 
+        Data Quality & Variational Inference.
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+
+    - name: "Geometry of ML"
+      position: ""
+      content: Information Geometry for the analysis of 
+        machine learning models. 
+      image:
+        x: "images/testimonials/dvc 2.png"
+        _2x: "images/testimonials/dvc.png"
+    
+    
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Jose A. Cribeiro Ramallo"
+    email: "jose.cribeiro@kit.edu"
+    message: "Send me a mail!"
+  phone:
+    title: "Phone Number"
+    number: "Contact me if needed"
+  email:
+    title: "Email"
+    email: ' <p> <a href="mailto:jose@cribeiro.de">jose@criebiro.de</a> </p>
+      <p><a href="mailto:jose.cribeiro@kit.edu">jose.cribeiro@kit.edu</a> </p>'
+  address:
+    title: "Time Zone"
+    address: "UTC +2 (Berlin, París, Rome, Madrid)"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
