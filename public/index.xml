@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://cv.cribeiro.de/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cv.cribeiro.de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD Researcher - KIT</title>
-      <link>https://cv.cribeiro.de/experience/kit_research/</link>
+      <link>http://localhost:1313/experience/kit_research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cv.cribeiro.de/experience/kit_research/</guid>
+      <guid>http://localhost:1313/experience/kit_research/</guid>
       <description>Subspace-based Knowledge Discovery in Large Databases 🎓 My main research focuses on outlier detection in large databases, especially tabular data. Here, my focus is on subspace-driven techniques, where the data, due to its complexity, needs to be examined from multiple subspaces. Determining how to study each subspace, and which subspaces to study in the first place, is the core of my work.&#xA;I use a variety of techniques in this area, in particular deep learning, self-supervised generative methods for knowledge discovery, and kernel methods.</description>
     </item>
     <item>
       <title>PhD Teaching Activities - KIT</title>
-      <link>https://cv.cribeiro.de/experience/kit_teaching/</link>
+      <link>http://localhost:1313/experience/kit_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cv.cribeiro.de/experience/kit_teaching/</guid>
+      <guid>http://localhost:1313/experience/kit_teaching/</guid>
       <description>My teaching obligations 👨‍🏫 Besides research, teaching is also an important part of my daily work.&#xA;Supervising bachelor and master theses, teaching laboratory courses and supervising seminars are my most common activities. I also teach the second semester lecture in Database Systems as part of the SQL group. In addition to supervising the exam, I am one of the people responsible for preparing, correcting and revising the SQL section of the exam.</description>
     </item>
     <item>
       <title>Research Scientist Intern - Gradiant</title>
-      <link>https://cv.cribeiro.de/experience/gradiant/</link>
+      <link>http://localhost:1313/experience/gradiant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cv.cribeiro.de/experience/gradiant/</guid>
+      <guid>http://localhost:1313/experience/gradiant/</guid>
       <description>First job in Machine Learning 🤖 My carreer in Machine Learning started in a Technological Consultant named Gradiant (Vigo, Spain). My worked focused on research in Data Efficiency and Data Valuation for efficient training of CV models. This work was supported by the University of Santiago de Compostela as part of my Master&amp;rsquo;s Thesis. Here, we developed GEDA, a Gradient-based efficiency method. We obtained up to a 40% speed-up in time compared with the full-training, and almost no reduction in accuracy (&amp;lt;1%).</description>
     </item>
   </channel>
